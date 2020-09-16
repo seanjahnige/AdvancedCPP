@@ -1,5 +1,7 @@
 #include"stdTemplateLib.h"
 
-class stdTemplateLib {
+stdTemplateLib::stdTemplateLib() {}
 
-};
+void stdTemplateLib::vectors() {
+
+}

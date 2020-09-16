@@ -6,6 +6,8 @@ using namespace std;
 
 class stdTemplateLib {
 public:
+	stdTemplateLib();
+	void vectors();
 
 private:
 

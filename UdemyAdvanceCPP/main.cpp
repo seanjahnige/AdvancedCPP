@@ -11,6 +11,8 @@ int main() {
 	section03.structAndPadding();
 	section03.readWriteBinaryFiles();
 	*/
+	stdTemplateLib Section04;
+
 
 	system("pause");
 	return 0;
