@@ -13,6 +13,8 @@ int main() {
 	*/
 	stdTemplateLib Section04;
 
+	//Section04.vectors();
+	Section04.vectorsAndMem();
 
 	system("pause");
 	return 0;
